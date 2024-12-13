@@ -3,7 +3,7 @@ import csv
 import os
 from telebot import types
 
-bot = telebot.TeleBot("7808098369:AAGimh9jvdoGjRcfvf8Oc27an0YGNPyTLNY")
+bot = telebot.TeleBot("BOT_ID")
 
 active_users = {}
 
